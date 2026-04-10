@@ -1,5 +1,7 @@
 package Ex01;
 
+import java.util.Scanner;
+
 public class Ex01 {
     static void main() {
         //Condição partida
