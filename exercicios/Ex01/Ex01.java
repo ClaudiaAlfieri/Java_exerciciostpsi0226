@@ -24,6 +24,7 @@ public class Ex01 {
             }
             if(input>maior){
                 maior=input;
+
             }
         }
 
