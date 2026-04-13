@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Ex00 {
     static void main() {
+
+        //Escreva um programa em Java que solicite um inteiro maior que 0 e menor que 20 e escreva no ecrã esses números, de zero ao número solicitado. Caso o inteiro solicitado não se enquadre nos limites definidos deve ser apresentado o erro ao utilizador e sair.
+
         System.out.println("Digite um valor: ");
 
         Scanner sc = new Scanner(System.in);
