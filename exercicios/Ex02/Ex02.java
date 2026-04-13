@@ -20,7 +20,7 @@ public class Ex02 {
             soma+=i;
         }
         System.out.printf("A soma dos primeiros %d inteiros é: %d",num,soma);
-        input.close() ;
+        input.close();
 
     }
 }
