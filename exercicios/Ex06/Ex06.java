@@ -3,6 +3,13 @@ package Ex06;
 public class Ex06 {
     static void main() {
 
+        //Através de ciclos de repetição implemente o seguinte padrão como output:
+
+        // ##########
+        // #**#**#**#
+        // #**#**#**#
+        // ##########
+
         char ast='*';
         char cardinal='#';
 
