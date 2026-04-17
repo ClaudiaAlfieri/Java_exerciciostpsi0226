@@ -8,13 +8,12 @@ public class Ex19 {
         //Aproveitando o exercício anterior, através de um ciclo infinito while(true){} pergunte, no final, ao utilizador se pretende inserir novo número: Veja o comportamento esperado
 
         Scanner input = new Scanner(System.in);
-       char resposta = 0;
+       char resposta;
 
         while(true){
 
             System.out.print("Digite um número: ");
             int num = input.nextInt();
-            int soma=0;
 
             System.out.print("Inverso-> ");
 
