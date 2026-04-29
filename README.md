@@ -20,7 +20,7 @@ Each folder corresponds to a topic or set of exercises covered in class, organiz
 - ✅ Encapsulation (`private`, `public`, `protected`)
 - ✅ Inheritance and code reuse
 - ✅ Polymorphism and method overriding
-- 🔄 Abstract classes and methods
+- ✅ Abstract classes and methods
 - 🔄 Interfaces
 - 🔄 Exception Handling
 - 🔄 Collections (`ArrayList`, `HashMap`, etc.)
