@@ -1,6 +1,6 @@
 package _20260423.Ex1;
 
-public class Aluno extends Pessoa {
+public class Aluno extends Pessoa1 {
     private double nota;
 
     public double getNota() {
