@@ -1,6 +1,6 @@
 package _20260423.Ex1;
 
-public class Pessoa {
+public class Pessoa1 {
     private String nif;
     private String nome;
     private int idade;
@@ -17,13 +17,13 @@ public class Pessoa {
         return idade;
     }
 
-    public Pessoa(String nif, String nome, int idade) {
+    public Pessoa1(String nif, String nome, int idade) {
         this.nif = nif;
         this.nome = nome;
         this.idade = idade;
     }
 
-    public Pessoa(String nif, String nome) {
+    public Pessoa1(String nif, String nome) {
         this.nif = nif;
         this.nome = nome;
     }
